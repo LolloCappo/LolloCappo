@@ -17,8 +17,8 @@ Full-field identification of fatigue damage on outdoor structures from infrared 
 Research Fellow · MUR — PRIN 2022 · CUP J53D23002440006 · Nov 2023 – Jan 2025<br>
 Calibration methodology and metrological traceability for blade tip-timing systems, including a test bench based on kinematic inversion. Open data and results: [BTTMS](https://github.com/LolloCappo/BTTMS)
 
-**PRIN — Trabecular structures in additive manufacturing**<br>
-MIUR — Research Project of National Interest · *Experimental Techniques for the Characterization of the Effective Performances of Trabecular Morphology Structures Realized in AM*<br>
+**PRIN — Trabecular structures in AM** — *Experimental Techniques for the Characterization of the Effective Performances of Trabecular Morphology Structures Realized in AM*<br>
+Participant, Università degli Studi di Perugia unit · MIUR — Research Project of National Interest<br>
 Experimental characterization of the effective mechanical performance of trabecular-morphology structures produced by additive manufacturing.
 
 ### Infrared thermography & thermoelasticity
