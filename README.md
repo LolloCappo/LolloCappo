@@ -5,22 +5,6 @@ Previously at UIUC and at the Università degli Studi di Perugia.
 
 I work on experimental structural dynamics — infrared thermography and thermoelasticity, vibration fatigue, blade tip timing, and image-based measurement. Most of the code I write for my research ends up here, open source.
 
-🇮🇹 Italy · 🇸🇮 Slovenia · 🇺🇸 Illinois &nbsp;·&nbsp; [Google Scholar](https://scholar.google.it/citations?user=TQwkEzgAAAAJ&hl=it)
-
-### Research projects
-
-**[ARTEMIDE](https://ladisk.si/?flnm=artemide.php&lan=en&what=incfl)** — *Outdoor-space self-calibrating thermoelasticity-based fatigue damage identification*<br>
-MSCA-ERA Fellow · Horizon Europe, HORIZON-WIDERA-2023-TALENTS-02 · Grant 101180595 · Oct 2024 – Sep 2026<br>
-Full-field identification of fatigue damage on outdoor structures from infrared imaging, with self-calibration and motion compensation so the measurement holds up outside the lab. Hosted at LADISK, University of Ljubljana. &nbsp;·&nbsp; [CORDIS](https://cordis.europa.eu/project/id/101180595)
-
-**[PRIN2022-BTTMS](https://prinbtt.poliba.it/)** — *Development of calibration procedures of Tip Timing systems for non-contact turbine blade vibration measurements*<br>
-Research Fellow · MUR — PRIN 2022 · CUP J53D23002440006 · Nov 2023 – Jan 2025<br>
-Calibration methodology and metrological traceability for blade tip-timing systems, including a test bench based on kinematic inversion. Open data and results: [BTTMS](https://github.com/LolloCappo/BTTMS)
-
-**PRIN — Trabecular structures in AM** — *Experimental Techniques for the Characterization of the Effective Performances of Trabecular Morphology Structures Realized in AM*<br>
-Participant, Università degli Studi di Perugia unit · MIUR — Research Project of National Interest<br>
-Experimental characterization of the effective mechanical performance of trabecular-morphology structures produced by additive manufacturing.
-
 ### Infrared thermography & thermoelasticity
 
 - **[InfraPy](https://github.com/LolloCappo/InfraPy)** — modular library for infrared image processing, analysis and visualization &nbsp;·&nbsp; `pip install InfraPy`
@@ -35,19 +19,14 @@ Experimental characterization of the effective mechanical performance of trabecu
 
 - **[pyNNST](https://github.com/LolloCappo/pyNNST)** — non-stationarity index for time series &nbsp;·&nbsp; `pip install pyNNST`
 - **[pyLMS](https://github.com/LolloCappo/pyLMS)** — open Siemens LMS TestLab `.mat` acquisitions in Python &nbsp;·&nbsp; `pip install pyLMS`
-- **[BTTMS](https://github.com/LolloCappo/BTTMS)** — open data and results from the national research project on calibration procedures for Tip Timing systems
+- **[BTTMS](https://github.com/LolloCappo/BTTMS)** — open data from the national research project on Tip Timing calibration
 
 ### Image-based measurement
 
 - **[pyArUco](https://github.com/LolloCappo/pyArUco)** — ArUco marker-based displacement measurement
 - **[ArUco_STL](https://github.com/LolloCappo/ArUco_STL)** — ArUco marker generation on STL geometry
 
-I also contribute to [pyidi](https://github.com/ladisk/pyidi), [sdypy](https://github.com/sdypy), and [MODULO](https://github.com/mendezVKI/MODULO).
-
-### Teaching materials
-
-- **[Latex_template](https://github.com/LolloCappo/Latex_template)** — LaTeX templates for theses, lab reports and presentations
-- **[HandsOn](https://github.com/LolloCappo/HandsOn)** — hands-on example code for students
+I also contribute to [pyidi](https://github.com/ladisk/pyidi), [sdypy](https://github.com/sdypy) and [MODULO](https://github.com/mendezVKI/MODULO).
 
 ---
 
@@ -55,4 +34,4 @@ I also contribute to [pyidi](https://github.com/ladisk/pyidi), [sdypy](https://g
 
 I supervise MSc and BSc theses, course project work and laboratory experiences, in collaboration with the Mechanical and Thermal Measurements group at the Università degli Studi di Perugia.
 
-Open topics, prerequisites and starting material: **[thesis-topics](https://github.com/LolloCappo/thesis-topics)**
+Open topics, LaTeX templates, course material and my research projects: **[student-hub](https://github.com/LolloCappo/student-hub)**
