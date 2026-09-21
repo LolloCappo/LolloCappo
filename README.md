@@ -7,6 +7,20 @@ I work on experimental structural dynamics — infrared thermography and thermoe
 
 🇮🇹 Italy · 🇸🇮 Slovenia · 🇺🇸 Illinois &nbsp;·&nbsp; [Google Scholar](https://scholar.google.it/citations?user=TQwkEzgAAAAJ&hl=it)
 
+### Research projects
+
+**[ARTEMIDE](https://ladisk.si/?flnm=artemide.php&lan=en&what=incfl)** — *Outdoor-space self-calibrating thermoelasticity-based fatigue damage identification*<br>
+MSCA-ERA Fellow · Horizon Europe, HORIZON-WIDERA-2023-TALENTS-02 · Grant 101180595 · Oct 2024 – Sep 2026<br>
+Full-field identification of fatigue damage on outdoor structures from infrared imaging, with self-calibration and motion compensation so the measurement holds up outside the lab. Hosted at LADISK, University of Ljubljana. &nbsp;·&nbsp; [CORDIS](https://cordis.europa.eu/project/id/101180595)
+
+**[PRIN2022-BTTMS](https://prinbtt.poliba.it/)** — *Development of calibration procedures of Tip Timing systems for non-contact turbine blade vibration measurements*<br>
+MUR — PRIN 2022 · CUP J53D23002440006 · Nov 2023 – Jan 2025<br>
+Calibration methodology and metrological traceability for blade tip-timing systems, including a test bench based on kinematic inversion. Open data and results: [BTTMS](https://github.com/LolloCappo/BTTMS)
+
+**MIROSCIC** — *Mirror World for Human Safety in Industrial Contexts*<br>
+MUR — PRIN 2022 PNRR (area PE8) · P2022J2REN · Nov 2023 – Jan 2025<br>
+Collaborative robots and the Mirror World paradigm applied to industrial processes, aimed at improving safety in the working environment.
+
 ### Infrared thermography & thermoelasticity
 
 - **[InfraPy](https://github.com/LolloCappo/InfraPy)** — modular library for infrared image processing, analysis and visualization &nbsp;·&nbsp; `pip install InfraPy`
