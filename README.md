@@ -14,12 +14,12 @@ MSCA-ERA Fellow · Horizon Europe, HORIZON-WIDERA-2023-TALENTS-02 · Grant 10118
 Full-field identification of fatigue damage on outdoor structures from infrared imaging, with self-calibration and motion compensation so the measurement holds up outside the lab. Hosted at LADISK, University of Ljubljana. &nbsp;·&nbsp; [CORDIS](https://cordis.europa.eu/project/id/101180595)
 
 **[PRIN2022-BTTMS](https://prinbtt.poliba.it/)** — *Development of calibration procedures of Tip Timing systems for non-contact turbine blade vibration measurements*<br>
-MUR — PRIN 2022 · CUP J53D23002440006 · Nov 2023 – Jan 2025<br>
+Research Fellow · MUR — PRIN 2022 · CUP J53D23002440006 · Nov 2023 – Jan 2025<br>
 Calibration methodology and metrological traceability for blade tip-timing systems, including a test bench based on kinematic inversion. Open data and results: [BTTMS](https://github.com/LolloCappo/BTTMS)
 
-**MIROSCIC** — *Mirror World for Human Safety in Industrial Contexts*<br>
-MUR — PRIN 2022 PNRR (area PE8) · P2022J2REN · Nov 2023 – Jan 2025<br>
-Collaborative robots and the Mirror World paradigm applied to industrial processes, aimed at improving safety in the working environment.
+**PRIN — Trabecular structures in additive manufacturing**<br>
+MIUR — Research Project of National Interest · *Experimental Techniques for the Characterization of the Effective Performances of Trabecular Morphology Structures Realized in AM*<br>
+Experimental characterization of the effective mechanical performance of trabecular-morphology structures produced by additive manufacturing.
 
 ### Infrared thermography & thermoelasticity
 
