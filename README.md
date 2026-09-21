@@ -7,26 +7,23 @@ I work on experimental structural dynamics — infrared thermography and thermoe
 
 ### Infrared thermography & thermoelasticity
 
+- **[pyFlir](https://github.com/LolloCappo/pyFlir)** — reader and controller for FLIR scientific cameras &nbsp;·&nbsp; `pip install pyFlir`
 - **[InfraPy](https://github.com/LolloCappo/InfraPy)** — modular library for infrared image processing, analysis and visualization &nbsp;·&nbsp; `pip install InfraPy`
-- **[IR_FLife](https://github.com/LolloCappo/IR_FLife)** — thermoelasticity-based modal damage identification &nbsp;·&nbsp; `pip install IR_FLife`
-- **[ThermCoeff](https://github.com/LolloCappo/ThermCoeff)** — thermoelastic coefficient identification from strain-gauge calibration &nbsp;·&nbsp; `pip install ThermCoeff`
 - **[pyLIA](https://github.com/LolloCappo/pyLIA)** — lock-in analyzer &nbsp;·&nbsp; `pip install pyLIA`
 - **[pysfmov](https://github.com/LolloCappo/pysfmov)** — SFMOV file reader &nbsp;·&nbsp; `pip install pysfmov`
-- **[pyFlir](https://github.com/LolloCappo/pyFlir)** — reader and controller for FLIR cameras
-- **[fasthcc](https://github.com/LolloCappo/fasthcc)** — fast reader for Telops HCC files, ~90× faster than TelopsToolbox
 
 ### Structural dynamics & vibration fatigue
 
+- **BladeLab** — modular framework for Blade Tip Timing research and teaching: simulation, vibration signatures, mode shapes &nbsp;·&nbsp; *opening shortly*
 - **[pyNNST](https://github.com/LolloCappo/pyNNST)** — non-stationarity index for time series &nbsp;·&nbsp; `pip install pyNNST`
 - **[pyLMS](https://github.com/LolloCappo/pyLMS)** — open Siemens LMS TestLab `.mat` acquisitions in Python &nbsp;·&nbsp; `pip install pyLMS`
-- **[BTTMS](https://github.com/LolloCappo/BTTMS)** — open data from the national research project on Tip Timing calibration
 
 ### Image-based measurement
 
 - **[pyArUco](https://github.com/LolloCappo/pyArUco)** — ArUco marker-based displacement measurement
 - **[ArUco_STL](https://github.com/LolloCappo/ArUco_STL)** — ArUco marker generation on STL geometry
 
-I also contribute to [pyidi](https://github.com/ladisk/pyidi), [sdypy](https://github.com/sdypy) and [MODULO](https://github.com/mendezVKI/MODULO).
+I also contribute to [pyidi](https://github.com/ladisk/pyidi) and [sdypy](https://github.com/sdypy).
 
 ---
 
