@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Lorenzo Capponi, MSCA-ERA Researcher at the **Faculty of Mechanical Engineering, University of Ljubljana**.
+I am Lorenzo Capponi, MSCA-WIDERA Fellow at the **Faculty of Mechanical Engineering, University of Ljubljana**.
 Previously Postdoc at UIUC.
 
 I work on experimental methods for structural dynamics, infrared thermography and thermoelasticity, vibration fatigue, blade tip timing, and image-based measurement. Most of the code I write for my research ends up here, open source.
