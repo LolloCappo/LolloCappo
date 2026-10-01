@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I am Lorenzo Capponi, Research Fellow at the **Department of Engineering, University of Perugia**.
-Previously MSCA-WIDERA Fellow at University of Ljubljana, and Postdoc at UIUC.
+Previously MSCA-WIDERA Fellow at University of Ljubljana, and Postdoc at UIUC, Illinois.
 
 I work on experimental methods for structural dynamics, infrared thermography and thermoelasticity, vibration fatigue, blade tip timing, and image-based measurement. Most of the code I write for my research ends up here, open source.
 
